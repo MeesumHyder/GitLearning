@@ -17,3 +17,6 @@ Syntax:
 Commit - it is the record of change
 Syntax:
 > git commit -m "some message"
+Push - upload local repo to remote repo
+Syntax:
+> git push origin main
